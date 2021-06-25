@@ -15,8 +15,8 @@
             "sourceMaps": true,
             "env": {
                 "NODE_ENV": "local",
-                "IotHubConnectionString": "",
-                "EventHubConsumerGroup": "monitoring"
+                "IotHubConnectionString": "HostName=hummingbird-hub.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=u212tUMmM2SGfTzUJ4krzuiSYh53lGldxdhdT4DVsFk=",
+                "EventHubConsumerGroup": "hummingbird_consumer_group"
             }
         }
     ]
